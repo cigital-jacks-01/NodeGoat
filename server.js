@@ -1,4 +1,4 @@
-//Load configurations
+//Load configurations <script>alert(1);</script> '<>"";!&/--
 process.env.NODE_ENV = process.env.NODE_ENV || "development";
 
 
